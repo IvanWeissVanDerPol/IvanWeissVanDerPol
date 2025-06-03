@@ -47,12 +47,7 @@
 
 ---
 
-## 📌 Pinned Repos
 
-[![Databricks Bundles CI](https://github-readme-stats.vercel.app/api/pin/?username=IvanWeissVanDerPol\&repo=databricks-bundles-ci\&theme=radical)](https://github.com/IvanWeissVanDerPol/databricks-bundles-ci)
-[![Council Request App](https://github-readme-stats.vercel.app/api/pin/?username=IvanWeissVanDerPol\&repo=council-request-powerapps\&theme=radical)](https://github.com/IvanWeissVanDerPol/council-request-powerapps)
-
----
 
 ## 🎯 Learning & Roadmap
 
