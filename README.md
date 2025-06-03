@@ -1,90 +1,95 @@
-<h1 align="center">Hi there, I'm Ivan Weiss van der Pol 👋</h1>
-<h3 align="center">🚀 Data Engineer @ Stoic Finch | Automation Architect | CI/CD & Power Platform Enthusiast</h3>
+
+
+<h1 align="center">Hey, I'm Ivan Weiss van der Pol 👋</h1>
+<h3 align="center">🛠 Data Engineer @ Stoic Finch | 🔁 CI/CD Architect | 🧩 Automation & Power Platform Wizard</h3>
 
 ---
 
-### 🧠 About Me
+### 🧠 Who I Am
 
-- 🧩 Data Engineer focused on **Databricks**, **Azure DevOps**, and **Power Platform**
-- 🧠 Building **AI automation workflows** using `n8n`, `GPT`, and `Teams + Slack integrations`
-- 🛠️ Obsessed with optimizing pipelines, designing intuitive apps, and sharing knowledge
-- 🏠 Living in a tech house with friends from around the globe—half co-working, half family!
+* ⚡ Bilingual tech lead (🇵🇾🇳🇱) building at the intersection of **data**, **AI**, and **UX**
+* 🔧 Architecting automation workflows with `n8n`, `GPT`, and `Power Automate`
+* 📦 Power Platform specialist—making **Power Apps** feel like magic
+* 💬 Champion of human-centered design and simplified backend logic
+* 🧑‍💻 Working from a house of global technologists—**half co-lab, half family**
 
 ---
 
-## 🏆 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
-### 🧿 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ivanweissvdpol&theme=radical&row=1&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ivanweissvdpol\&theme=radical\&row=1\&margin-w=10\&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ivanweissvdpol&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Streak](https://streak-stats.demolab.com?user=ivanweissvdpol\&theme=radical\&hide_border=true)](https://git.io/streak-stats)
 
 ### 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanweissvdpol&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanweissvdpol\&layout=compact\&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 Contribution Graph
-![github contribution snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-### 🔄 Recent Activity
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+### 🧠 Recent Projects
+
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed `databricks.yaml` for `CI/CD Bundles`
-2. ✅ Completed `Bank of Canada FX Job`
-3. 🛠️ Refactored Power Apps validation logic
-4. 📦 Published `merge-flutterapp-to-json.ps1`
-5. 🎯 Launched `n8n GPT Resume Generator`
+
+1. 🎯 Launched `n8n GPT Resume Generator`
+2. 📦 Shipped `merge-flutterapp-to-json.ps1`
+3. ✅ Completed `Bank of Canada FX Job`
+4. 🧪 Refactored Power Apps validation logic
+5. ⬆️ Pushed `databricks.yaml` for CI/CD Bundles
+
 <!--END_SECTION:activity-->
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanweissvdpol&repo=databricks-bundles-ci&theme=radical)](https://github.com/ivanweissvdpol/databricks-bundles-ci)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanweissvdpol&repo=council-request-powerapps&theme=radical)](https://github.com/ivanweissvdpol/council-request-powerapps)
-
----
-
-## 🧩 Dynamic Widgets
-
-### 👀 Visitor Counter
-![Visitors](https://komarev.com/ghpvc/?username=ivanweissvdpol&color=blueviolet&style=flat)
-
-### 📊 GitHub Readme Stats
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanweissvdpol&show_icons=true&theme=radical)
+[![Databricks Bundles CI](https://github-readme-stats.vercel.app/api/pin/?username=ivanweissvdpol\&repo=databricks-bundles-ci\&theme=radical)](https://github.com/ivanweissvdpol/databricks-bundles-ci)
+[![Council Request App](https://github-readme-stats.vercel.app/api/pin/?username=ivanweissvdpol\&repo=council-request-powerapps\&theme=radical)](https://github.com/ivanweissvdpol/council-request-powerapps)
 
 ---
 
-## 🎯 Goals / Currently Learning
+## 🎯 Learning & Roadmap
 
-| Learning Now | Short-Term Goals | Long-Term Goals |
-|--------------|------------------|------------------|
-| `n8n + GPT` automation | Finish `Databricks Bundle` rollout | Speak at **Data + AI Summit 2025** |
-| Power Apps UI/UX finesse | Refactor SharePoint flows | Publish open-source CI/CD tool |
-| MCP Git commit generator | Improve test automation reports | Contribute to high-impact OSS |
+| 🎓 Learning Now              | 📍 Short-Term Goals               | 🧭 Long-Term Vision                   |
+| ---------------------------- | --------------------------------- | ------------------------------------- |
+| `n8n + GPT` integrations     | Wrap up `Databricks Bundle` CI/CD | Speak at **Data + AI Summit 2025**    |
+| UX refinements in Power Apps | SharePoint flow consolidation     | Publish a no-code/low-code CI toolkit |
+| MCP commit message engine    | Dashboards with Databricks + BI   | Contribute to global OSS AI projects  |
 
 ---
 
 ## 🧠 Knowledge Sharing
 
-- 📚 Building a [cheat sheet vault](https://github.com/ivanweissvdpol?tab=repositories) for Databricks, Python, and Power Platform
-- 🧵 Publishing tips on `MCP`, `n8n`, and `CI/CD for Data Engineering`
-- 🛠️ Utility scripts for devs and low-coders (e.g. Flutter archiver, automation triggers)
+* 🧾 [Cheat sheet vault](https://github.com/ivanweissvdpol?tab=repositories) for Databricks, Python, and Power Platform
+* 📣 Tips on `MCP`, `n8n`, and automation workflows
+* ⚙️ Scripts for Devs + Low-coders (e.g., Flutter archiver, logic debuggers)
 
 ---
 
-## 📬 Let's Connect
+## 🌐 Connect with Me
 
-🌐 [My Linktree](https://linktr.ee/ivanweissvanderpol) — all my links in one place!
-
----
-
-## ⚡ Fun Extras
-
-- 🐍 Contribution Snake Game above 👆
-- 😎 Obsessed with Power Apps logic that **just works™**
-- 🧙 Easter egg: Try the [Konami code](https://cursedcode.com/konami) for my favorite commit message spell 💻✨
+* 🧭 Portfolio: [ivanweissvanderpol.github.io](https://ivanweissvanderpol.github.io)
+* 📧 Email: [weissvanderpol.ivan@gmail.com](mailto:weissvanderpol.ivan@gmail.com)
+* 🔗 LinkedIn: [linkedin.com/in/ivanweissvanderpol](https://linkedin.com/in/ivanweissvanderpol)
+* 👨‍💻 GitHub: [github.com/ivanweissvanderpol](https://github.com/ivanweissvanderpol)
+* 🪪 Resume: [PDF Link](https://ivanweissvanderpol.github.io/PersonalData/ResumeIvanWeiss-2025-05.pdf)
 
 ---
 
-> “Automate the boring, simplify the complex, and make tech feel human.” – *Ivan Weiss van der Pol*
+## ⚡ Fun Facts
 
+* 🧙‍♂️ Try the [Konami Code](https://cursedcode.com/konami) on my site 😉
+* 🐍 Obsessed with Power Apps logic that just works™
+* 🧠 Training GPT to *understand* commit messages
+* 🏡 Living in a full-stack house with dev roommates from 3 continents
+
+---
+
+> 💡 *“Automate the boring, simplify the complex, and make tech feel human.”*
+> — *Ivan Weiss van der Pol*
