@@ -19,15 +19,15 @@
 
 ### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ivanweissvdpol\&theme=radical\&row=1\&margin-w=10\&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=IvanWeissVanDerPol\&theme=radical\&row=1\&margin-w=10\&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 GitHub Streak
 
-[![Streak](https://streak-stats.demolab.com?user=ivanweissvdpol\&theme=radical\&hide_border=true)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=IvanWeissVanDerPol\&theme=radical\&hide_border=true)](https://git.io/streak-stats)
 
 ### 💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanweissvdpol\&layout=compact\&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanWeissVanDerPol\&layout=compact\&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 Contribution Graph
 
@@ -49,8 +49,8 @@
 
 ## 📌 Pinned Repos
 
-[![Databricks Bundles CI](https://github-readme-stats.vercel.app/api/pin/?username=ivanweissvdpol\&repo=databricks-bundles-ci\&theme=radical)](https://github.com/ivanweissvdpol/databricks-bundles-ci)
-[![Council Request App](https://github-readme-stats.vercel.app/api/pin/?username=ivanweissvdpol\&repo=council-request-powerapps\&theme=radical)](https://github.com/ivanweissvdpol/council-request-powerapps)
+[![Databricks Bundles CI](https://github-readme-stats.vercel.app/api/pin/?username=IvanWeissVanDerPol\&repo=databricks-bundles-ci\&theme=radical)](https://github.com/IvanWeissVanDerPol/databricks-bundles-ci)
+[![Council Request App](https://github-readme-stats.vercel.app/api/pin/?username=IvanWeissVanDerPol\&repo=council-request-powerapps\&theme=radical)](https://github.com/IvanWeissVanDerPol/council-request-powerapps)
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 🧠 Knowledge Sharing
 
-* 🧾 [Cheat sheet vault](https://github.com/ivanweissvdpol?tab=repositories) for Databricks, Python, and Power Platform
+* 🧾 [Cheat sheet vault](https://github.com/IvanWeissVanDerPol?tab=repositories) for Databricks, Python, and Power Platform
 * 📣 Tips on `MCP`, `n8n`, and automation workflows
 * ⚙️ Scripts for Devs + Low-coders (e.g., Flutter archiver, logic debuggers)
 
