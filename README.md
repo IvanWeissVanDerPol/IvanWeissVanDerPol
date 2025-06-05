@@ -3,16 +3,6 @@
 
 ---
 
-## 🧠 About Me
-
-- ⚡ Bilingual tech lead (🇵🇾🇳🇱) building at the intersection of **data**, **AI**, and **UX**
-- 🔧 Architecting automation workflows with `n8n`, `GPT`, and `Power Automate`
-- 📦 Power Platform specialist—making **Power Apps** feel like magic
-- 💬 Advocate for human-centered design & maintainable backend logic
-- 🏡 Living in a global tech house—**half co-lab, half family**
-
----
-
 ## 📊 GitHub Stats & Activity
 
 ### 🏆 GitHub Trophies  
@@ -24,55 +14,59 @@
 ### 📈 Contribution Graph  
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-### 🚀 Recent Activity  
-<!--START_SECTION:activity-->
-1. 🎯 Launched `n8n GPT Resume Generator`  
-2. 📦 Shipped `merge-flutterapp-to-json.ps1`  
-3. ✅ Completed `Bank of Canada FX Job`  
-4. 🧪 Refactored Power Apps validation logic  
-5. ⬆️ Pushed `databricks.yaml` for CI/CD Bundles  
-<!--END_SECTION:activity-->
+
+## 🧠 About Me
+
+- 🧑‍💻 Data Engineer blending **AI**, **QA**, and **Coding** wizardry
+- 🌐 Bilingual tech lead (🇵🇾 Paraguay & 🇳🇱 Netherlands) with global dev experience
+- 🔧 Automation architect with `n8n`, `Power Automate`, `OpenAI`, and `CI/CD pipelines`
+- 🏡 Living in a multicultural dev house—**half family, half co-lab**
 
 ---
 
+## 🛠 Skills & Technologies
 
-
-## 🎯 Learning & Roadmap
-
-| 🎓 Currently Learning          | 📍 Short-Term Goals               | 🧭 Long-Term Vision                     |
-|-------------------------------|-----------------------------------|-----------------------------------------|
-| `n8n + GPT` automations       | Wrap up `Databricks Bundle` CI/CD | Speak at **Data + AI Summit 2025**      |
-| UI/UX polish in Power Apps    | Consolidate SharePoint flows      | Build & share no-code CI/CD toolkit     |
-| Git-based MCP commit engine   | BI dashboards with Databricks     | Contribute to high-impact OSS projects  |
-
----
-
-## 📚 Knowledge Sharing
-
-- 🧾 [Cheat Sheet Vault](https://github.com/IvanWeissVanDerPol?tab=repositories) — for Databricks, Python & Power Platform  
-- 📣 Sharing tips on `MCP`, `n8n`, and CI/CD workflows  
-- ⚙️ Useful dev tools: Flutter archiver, automation scripts, validation logic testers
+| Category             | Tools & Tech                                                                                      |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Python & Data**    | Python, Pandas, NumPy, PySpark, Matplotlib, Selenium, Delta Lake, Spark SQL                       |
+| **QA Automation**    | Selenium, Cypress, PyTest, TestRail, WebdriverIO, BDD (Cucumber), Applitools, Jenkins             |
+| **Dev & CI/CD**      | Azure DevOps, Git, Jenkins, REST APIs, Postman, CI/CD Pipelines, Version Control                  |
+| **Power Platform**   | Power Apps, Power Automate, Power BI, SharePoint Integration                                      |
+| **Web & UI/UX**      | React, Flask, HTML5, CSS3, Bootstrap, Responsive Design                                           |
+| **Database Systems** | SQL, MongoDB, Relational DBs, Query Optimization, Azure Data Lake                                 |
+| **Automation & AI**  | n8n, OpenAI, Prompt Engineering, Automation Scripts, AI Agents                                    |
+| **DevOps & PM**      | JIRA, Scrum, Kanban, Agile, Versioning, DevOps Practices                                          |
 
 ---
 
-## 🌐 Let's Connect
+## 📚 Education
 
-- 🌐 Portfolio: [ivanweissvanderpol.github.io](https://ivanweissvanderpol.github.io)
-- 📧 Email: [weissvanderpol.ivan@gmail.com](mailto:weissvanderpol.ivan@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ivanweissvanderpol](https://linkedin.com/in/ivanweissvanderpol)
-- 👨‍💻 GitHub: [github.com/IvanWeissVanDerPol](https://github.com/IvanWeissVanDerPol)
-- 🪪 Resume: [View PDF](https://ivanweissvanderpol.github.io/PersonalData/ResumeIvanWeiss-2025-05.pdf)
+- 🎓 **Bachelor's Degree in Computer Science**  
+  _Facultad Politécnica de la Universidad Nacional de Asunción (2018 – Present)_  
+  - 🏆 Top placement in national programming competitions  
+  - 🛠 Specialized in Software Engineering, Machine Learning & Security  
+---
+
+## 🏅 Certifications
+
+- 🧪 **ISTQB Certified Tester – Foundation Level** (2022)  
+- 🚀 **NASA Galactic Problem Solver** – Space Apps Challenge 2023  
+- 🇺🇸 **BECAL Scholar** – Advanced English (2021)  
+- 🤖 **Test Automation University** (TAU)  
+  - Courses: Selenium, Cypress, Postman, Jenkins, Applitools, AI in Testing, WebdriverIO, Java, Python, BDD
 
 ---
 
-## ⚡ Fun Facts
+## 🔗 Links & Contact
 
-- 🧙‍♂️ Try the [Konami Code](https://cursedcode.com/konami) on my site 😉  
-- 🐍 Obsessed with Power Apps logic that just works™  
-- 💬 Teaching GPT to write better commit messages  
-- 🏡 Living with dev roommates from 3 continents
+- 🌐 [Portfolio Website](https://ivanweissvanderpol.github.io)
+- 📧 [weissvanderpol.ivan@gmail.com](mailto:weissvanderpol.ivan@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ivanweissvanderpol)
+- 👨‍💻 [GitHub](https://github.com/IvanWeissVanDerPol)
+- 📄 [Resume (May 2025)](https://ivanweissvanderpol.github.io/PersonalData/ResumeIvanWeiss-2025-05.pdf)
 
 ---
+
 
 > 💡 *“Automate the boring, simplify the complex, and make tech feel human.”*  
 > — *Ivan Weiss van der Pol*
