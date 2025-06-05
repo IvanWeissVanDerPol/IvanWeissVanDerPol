@@ -21,9 +21,6 @@
 ### 🔥 GitHub Streak  
 [![GitHub Streak](https://streak-stats.demolab.com?user=IvanWeissVanDerPol&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-### 💻 Most Used Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanWeissVanDerPol&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📈 Contribution Graph  
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
