@@ -62,7 +62,6 @@
 - 🌐 [Portfolio Website](https://ivanweissvanderpol.github.io)
 - 📧 [weissvanderpol.ivan@gmail.com](mailto:weissvanderpol.ivan@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/ivanweissvanderpol)
-- 👨‍💻 [GitHub](https://github.com/IvanWeissVanDerPol)
 - 📄 [Resume (May 2025)](https://ivanweissvanderpol.github.io/PersonalData/ResumeIvanWeiss-2025-05.pdf)
 
 ---
